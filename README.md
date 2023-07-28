@@ -28,3 +28,23 @@
 |9.2 Sass 사용하기|[윤강록](https://velog.io/@ykr0919)|
 |9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
 |9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
+
+# 10장 TodoList 만들기
+
+|파트|발표자|
+|:---:|:---:|
+|9.1 일반 CSS|[윤강록](https://velog.io/@ykr0919)|
+|9.2 Sass 사용하기|[윤강록](https://velog.io/@ykr0919)|
+|9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
+|9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
+
+# 11장 컴포넌트 성능 최적화
+
+|파트|발표자|
+|:---:|:---:|
+|11.1 많은 데이터 렌더링하기|[이재훈](https://dekoms-coding.tistory.com/39)|
+|11.2 크롬 개발자 도구를 통한 성능 모니터링|[이재훈](https://dekoms-coding.tistory.com/39)|
+|11.3 느려지는 원인 분석|[이재훈](https://dekoms-coding.tistory.com/39)|
+|11.4 React.memo를 사용하여 컴포넌트 성능 최적화|[이재훈](https://dekoms-coding.tistory.com/39)|
+|11.5 onToggle, onRemove 함수가 바뀌지 않게 하기|[이재훈](https://dekoms-coding.tistory.com/39)|
+|11.6 불변성의 중요성|[이재훈](https://dekoms-coding.tistory.com/39)|
